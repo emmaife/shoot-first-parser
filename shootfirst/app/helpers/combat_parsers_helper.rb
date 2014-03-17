@@ -1,0 +1,2 @@
+module CombatParsersHelper
+end

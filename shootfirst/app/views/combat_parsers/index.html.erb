@@ -1,0 +1,26 @@
+
+<center><h1><font color= "red">Shoot First Combat Parser</font></h1></center>
+
+<table>
+  <thead>
+    <tr>
+      <th>Logs</th>
+ 
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @combat_parsers.each do |combat_parser| %>
+      <tr>
+        <td><%= File.basename("#{combat_parser.log}") %></td>
+        <td><%= link_to 'Show', combat_parser %></td>
+        <td><%= link_to 'Edit', edit_combat_parser_path(combat_parser) %></td>
+        <td><%= link_to 'Destroy', combat_parser, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'Add Combat Log', new_combat_parser_path %>

@@ -1,0 +1,23 @@
+<%= form_for @combat_parser, :html => {:multipart => true} do |f| %>
+  <% if @combat_parser.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@combat_parser.errors.count, "error") %> prohibited this combat_parser from being saved:</h2>
+
+      <ul>
+      <% @combat_parser.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.file_field :log %>
+    <%= f.hidden_field :log_cache %>
+  </div>
+  <div class="actions">
+    <%= f.submit "Upload Combat Log"%>
+  </div>
+
+
+<% end %>

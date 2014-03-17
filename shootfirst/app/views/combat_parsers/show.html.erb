@@ -1,0 +1,32 @@
+<p id="notice"><%= notice %></p>
+
+   
+<%= tabs %>
+<%= subtabs %>
+<nav align = "right">
+<%= link_to 'Home', combat_parsers_path %> |
+<%= link_to 'Change Upload', edit_combat_parser_path(@combat_parser) %> |
+<%= link_to 'New Upload', new_combat_parser_path %> |
+</nav>
+
+
+
+<center><h1><strong>Parsed Combat Text:</strong></h1></center>
+
+ 
+ <% @combat_parser.output_log_string.each_line do |line| %>
+ <br><% if line.include?("healed") %> 
+        <font color = "green"><%= line %></font>
+       <% elsif line.include?("hit") %>
+        <font color = "red"> <%= line %> </font>
+        <% elsif line.include?("missed")%>
+        <font color = "blue"><%=line%></font>
+        <%else%>
+        <%=line%>
+ <%end%></br>
+ <% end %>
+
+
+
+
+
