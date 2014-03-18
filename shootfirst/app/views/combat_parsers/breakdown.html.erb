@@ -1,31 +1,37 @@
 
 <body onload= "if(!/reloaded/.test(window.location.search)) {window.location.replace(window.location.href+'?reloaded=1');}">
 
-   
+ <header>  
 <%= tabs %>
 <%= subtabs %>
+</header>
+  <%= javascript_include_tag "//www.google.com/jsapi", "chartkick" %>
 
-<nav align = "right">
-<%= link_to 'Home', combat_parsers_path %> |
-<%= link_to 'Change Upload', edit_combat_parser_path(@combat_parser) %> |
-<%= link_to 'New Upload', new_combat_parser_path %> |
-</nav>
 
   <center><strong><h1>Breakdown</h1></strong></center>
 
-<strong>Total Damge Dealt:</strong> <%= @combat_parser.total_dmg %><br>
-<strong>Average Damage Dealt:</strong> <%= @combat_parser.average_dmg %>
+<p><strong>Total Damge Dealt:</strong> <%= @combat_parser.total_dmg %></p>
+<p><strong>Average Damage Dealt:</strong> <%= @combat_parser.average_dmg %></p>
+
+<%= area_chart (@combat_parser.damage_over_time), :library => {:backgroundColor => "#000"}, :fontColor => "#fff" %>
+
+
+
+
+
+
+
+
+
 
 <br><center><h3> Total Damage Per Ability </h3></br>
 
-<%= javascript_include_tag "//www.google.com/jsapi", "chartkick" %>
-<%= bar_chart (@combat_parser.ability_totals) %>
+
+<%= bar_chart (@combat_parser.ability_totals), :library => {:backgroundColor => "#000"}, :fontColor => "#fff"  %>
 
 <h3> Average Damage Per Ability </h3>
-<%= javascript_include_tag "//www.google.com/jsapi", "chartkick" %>
-<%= bar_chart (@combat_parser.ability_avgs) %>
+<%= bar_chart (@combat_parser.ability_avgs), :library => {:backgroundColor => "#000", :fontColor => "#fff"} %>
 
   
 <h3>Percentage of Total Damage per Ability</h3>
-<%= javascript_include_tag "//www.google.com/jsapi", "chartkick" %>
-<%= pie_chart (@combat_parser.ability_totals), :library => {:colors => ['yellow', '#1CD2FF', '#0046F7', '#1DF700', 'FF0000', '#FC0FF1', '#0FFCF1', ]}%> </center>
+<%= pie_chart (@combat_parser.ability_totals), :library => {:backgroundColor => "#000", :colors => ['yellow', '#1CD2FF', '#0046F7', '#1DF700', 'FF0000', '#FC0FF1', '#0FFCF1'], :fontColor => "#fff"}%> </center>

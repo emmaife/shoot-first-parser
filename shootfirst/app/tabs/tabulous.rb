@@ -1,13 +1,13 @@
 Tabulous.setup do
 
   tabs do
-  #   upload_file_tab do
-  #   text {'Home'}
-  #   link_path {combat_parsers_path(@combat_parsers)}
-  #   visible_when  { true }
-  #   enabled_when  { true }
-  #   active_when   { in_action('index').of_controller('combat_parsers') }
-  # end
+    upload_file_tab do
+    text {'Log Index'}
+    link_path {combat_parsers_path(@combat_parsers)}
+    visible_when  { true }
+    enabled_when  { true }
+    active_when   { in_action('index').of_controller('combat_parsers') }
+  end
 
     combat_text_tab do
       text          { 'Parsed Combat Log Text' }
@@ -60,11 +60,12 @@ end
   # This scaffolding should be turned off and replaced by your own custom
   # CSS before using tabulous in production.
   use_css_scaffolding do
+ 
     background_color 'black'
     text_color 'white'
     active_tab_color 'red'
     hover_tab_color '#ccc'
-    inactive_tab_color '#3E3E3E'
+    inactive_tab_color '#cda509'
     inactive_text_color 'white'
   end
 
