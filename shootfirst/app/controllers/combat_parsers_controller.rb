@@ -1,10 +1,11 @@
 class CombatParsersController < ApplicationController
 
+before_action :set_combat_parser, only: [:show, :breakdown, :edit, :update, :destroy]
+before_filter :authenticate_user!
+# before_filter :user_is_current_user
 
-  before_action :set_combat_parser, only: [:show, :breakdown, :edit, :update, :destroy]
-
-  def index
-    @combat_parsers = CombatParser.all
+  def index    
+    @combat_parsers = current_user.combat_parsers
   end
 
   def new
@@ -12,16 +13,19 @@ class CombatParsersController < ApplicationController
   end
 
   def show
+
   end
 
   def breakdown
   end
 
   def edit
+
   end
 
   def create
     @combat_parser = CombatParser.new(combat_parser_params)
+    @combat_parser.user = current_user
 
     respond_to do |format|
       if @combat_parser.save
@@ -61,17 +65,19 @@ class CombatParsersController < ApplicationController
       @combat_parser = CombatParser.find(params[:id])
     end
 
+  # def user_is_current_user
+  #     unless current_user.id == params[:user_id]
+  #       flash[:notice] = "You may only view your own products."
+  #     end
+  #   end
 
- 
     # Never trust parameters from the scary internet, only allow the white list through.
     def combat_parser_params
-      params.require(:combat_parser).permit(:log, :time, :source, :source_info, :source_id, :target_info, :target, :target_id,
+      params.require(:combat_parser).permit(:user_id, :log, :time, :source, :source_info, :source_id, :target_info, :target, :target_id,
   :ability, :ability_id, :effect, :effect_action, :value_info, :value, :value_type, 
   :threat, :enter?, :exit?, :dmg?, :heal?, :dmg_values, :abilities, :total, :ability_totals, 
   :ability_avgs, :total_dmg, :average_dmg, :dmg_per_ability, :ability_dmg_percentage, 
   :combat_log, :first_line, :player, :log_string, :output_log_string, :ability_dmg_values, :player_character)
     end
-
-
 
 end

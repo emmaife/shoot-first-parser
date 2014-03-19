@@ -1,27 +1,24 @@
 Shootfirst::Application.routes.draw do
+
+
   devise_for :users
-  get "sessions/new"
-  get "sessions/create"
-  get "sessions/destroy"
-  resources :users
 
   resources :combat_parsers
 
-  
-# get 'users/:id/combat_parsers'
-get 'combat_parsers' => 'combat_parsers#index'
- get 'combat_parsers/new' => 'combat_parsers#new'
-# post 'combat_parsers' => 'combat_parsers#create'
+  root 'combat_parsers#index'
 
-   get 'combat_parsers/:id' => 'combat_parsers#show'
-   get 'combat_parsers/:id/breakdown' => 'combat_parsers#breakdown'
+  get 'combat_parsers' => 'combat_parsers#index'
+  get 'combat_parsers/new' => 'combat_parsers#new'
+  post 'combat_parsers' => 'combat_parsers#create'
+  get 'combat_parsers/:id' => 'combat_parsers#show'
+  get 'combat_parsers/:id/breakdown' => 'combat_parsers#breakdown'
 
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-   root 'combat_parsers#index'
+
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

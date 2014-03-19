@@ -1,6 +1,7 @@
 class CombatParser < ActiveRecord::Base
-
-
+  # Include default devise modules. Others available are:
+  # :confirmable, :lockable, :timeoutable and :omniauthable
+belongs_to :user
   mount_uploader :log, LogUploader
 
   
@@ -66,7 +67,6 @@ class CombatParser < ActiveRecord::Base
     @abilities = []
     @ability_totals = {}
     @ability_avgs={}
-    @time_ary = []
     @log_string =""
 
     open_file
@@ -76,7 +76,6 @@ class CombatParser < ActiveRecord::Base
     @combat_log.each_line do |line|
       parse_line(line)
       if dmg? && @source == @player
-        @time_ary << Time.parse(@time)
         @dmg_values << @value.to_i
         @abilities << @ability
       end
@@ -95,7 +94,9 @@ class CombatParser < ActiveRecord::Base
       end
     end
   end
+
   def player_character
+    parse_log
     @player
   end
 
@@ -136,11 +137,6 @@ class CombatParser < ActiveRecord::Base
       @ability_avgs[k] = avg
       @ability_totals[k] = sum
     end
-  end
-
-  def damage_over_time
-  @test =  @time_ary.zip(@dmg_values)
-  Hash[@test]
   end
 
 

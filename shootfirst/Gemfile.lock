@@ -31,6 +31,7 @@ GEM
     bcrypt-ruby (3.1.5)
       bcrypt (>= 3.1.3)
     builder (3.1.4)
+    cancan (1.6.10)
     carrierwave (0.10.0)
       activemodel (>= 3.2.0)
       activesupport (>= 3.2.0)
@@ -148,6 +149,7 @@ PLATFORMS
 
 DEPENDENCIES
   bcrypt-ruby (~> 3.1.2)
+  cancan
   carrierwave
   chartkick
   coffee-rails (~> 4.0.0)
