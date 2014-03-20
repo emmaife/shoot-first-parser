@@ -1,9 +1,6 @@
 class CombatParser < ActiveRecord::Base
-  # Include default devise modules. Others available are:
-  # :confirmable, :lockable, :timeoutable and :omniauthable
-belongs_to :user
+  belongs_to :user
   mount_uploader :log, LogUploader
-
   
   def open_file
     @combat_log = File.open("public/#{self.log}", "r")
@@ -139,7 +136,6 @@ belongs_to :user
     end
   end
 
-
   def ability_avgs
     dmg_per_ability
     @ability_avgs.sort_by {|_k,v| v}
@@ -158,6 +154,5 @@ belongs_to :user
     end
     @percentage_hash.sort_by {|_k,v| v}
   end
-
 
 end

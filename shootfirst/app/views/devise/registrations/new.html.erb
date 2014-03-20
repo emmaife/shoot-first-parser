@@ -1,7 +1,10 @@
 <header>
 </header>
-
-<br><p><h2>Sign up</h2></p></br>
+<% if request.referer == new_user_session_url %>
+    <br><p><h2>Yes, I do.</h2></p></br>
+<% else %>
+    <br><p><h2>Sign Up</h2></p></br>
+<%end%>
 
 <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
   <%= devise_error_messages! %>

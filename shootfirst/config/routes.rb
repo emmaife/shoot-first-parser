@@ -13,7 +13,6 @@ Shootfirst::Application.routes.draw do
   get 'combat_parsers/:id' => 'combat_parsers#show'
   get 'combat_parsers/:id/breakdown' => 'combat_parsers#breakdown'
 
-
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

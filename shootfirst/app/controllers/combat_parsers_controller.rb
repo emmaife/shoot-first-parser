@@ -1,8 +1,8 @@
 class CombatParsersController < ApplicationController
 
 before_action :set_combat_parser, only: [:show, :breakdown, :edit, :update, :destroy]
+before_filter :check_current_user, only: [:show, :breakdown, :edit, :destroy]
 before_filter :authenticate_user!
-# before_filter :user_is_current_user
 
   def index    
     @combat_parsers = current_user.combat_parsers
@@ -13,14 +13,13 @@ before_filter :authenticate_user!
   end
 
   def show
-
+   
   end
 
   def breakdown
   end
 
   def edit
-
   end
 
   def create
@@ -60,24 +59,20 @@ before_filter :authenticate_user!
   end
 
   private
-    # Use callbacks to share common setup or constraints between actions.
     def set_combat_parser
       @combat_parser = CombatParser.find(params[:id])
+      @combat_parser.user == current_user
     end
 
-  # def user_is_current_user
-  #     unless current_user.id == params[:user_id]
-  #       flash[:notice] = "You may only view your own products."
-  #     end
-  #   end
+    def check_current_user
+       if current_user != @combat_parser.user
+         flash[:notice] = 'You cannot view or edit other user logs'
+         redirect_to combat_parsers_path
+       end
+     end
 
-    # Never trust parameters from the scary internet, only allow the white list through.
     def combat_parser_params
-      params.require(:combat_parser).permit(:user_id, :log, :time, :source, :source_info, :source_id, :target_info, :target, :target_id,
-  :ability, :ability_id, :effect, :effect_action, :value_info, :value, :value_type, 
-  :threat, :enter?, :exit?, :dmg?, :heal?, :dmg_values, :abilities, :total, :ability_totals, 
-  :ability_avgs, :total_dmg, :average_dmg, :dmg_per_ability, :ability_dmg_percentage, 
-  :combat_log, :first_line, :player, :log_string, :output_log_string, :ability_dmg_values, :player_character)
+      params.require(:combat_parser).permit(:user_id, :log)
     end
 
 end

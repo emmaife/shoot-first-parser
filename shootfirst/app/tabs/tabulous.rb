@@ -32,7 +32,7 @@ end
   customize do
 
     # which class to use to generate HTML
-    :html5
+    :default
     # :default, :html5, :bootstrap, or :bootstrap_pill
     # or create your own renderer class and reference it here
     # renderer :default
