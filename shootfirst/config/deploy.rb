@@ -1,4 +1,4 @@
-set :application, "Shoot First"
+set :application, "ShootFirst"
 set :repository,  "git@github.com:emmaife/shoot-first-parser.git"
 
 set :user, 'emma'
