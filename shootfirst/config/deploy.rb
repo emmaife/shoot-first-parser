@@ -1,7 +1,7 @@
 set :application, "Shoot First"
 set :repository,  "git@github.com:emmaife/shoot-first-parser.git"
 
-set :user 'emma'
+set :user, 'emma'
 set :deploy_to, "/home/#{ user }/#{ application }"
 set :use_sudo, false
 
