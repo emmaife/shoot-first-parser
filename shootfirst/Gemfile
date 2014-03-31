@@ -8,7 +8,6 @@ gem 'paperclip'
 gem 'chartkick'
 gem "highcharts-rails", "~> 3.0.10"
 gem 'groupdate'
-gem 'gruff'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 gem 'cancan'
