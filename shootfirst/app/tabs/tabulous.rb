@@ -18,7 +18,7 @@ Tabulous.setup do
     end
 
     breakdown_tab do
-      text          { 'Combat Log Breakdown' }
+      text          { "Combat Log Breakdown" }
       link_path     { "#{combat_parser_path}/breakdown"}
       visible_when  { true }
       enabled_when  { true }
@@ -64,9 +64,10 @@ end
     background_color 'black'
     text_color 'white'
     active_tab_color 'red'
-    hover_tab_color '#ccc'
-    inactive_tab_color '#cda509'
+    hover_tab_color '#cda509'
+    inactive_tab_color 'black'
     inactive_text_color 'white'
+
   end
 
 end

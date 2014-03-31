@@ -1,6 +1,10 @@
 <header>
 </header>
-<h2>Let me see your identification</h2>
+
+<center><h2>Let me see your identification</h2>
+  <%= link_to "You don't need to see my identifcation", new_registration_path(resource_name) %>
+</br>
+</br>
 
 <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
   <div><%= f.label :email %><br />
@@ -15,5 +19,8 @@
 
   <div><%= f.submit "Sign in" %></div>
 <% end %>
+</br>
+    <%= link_to "Forgot Your Password?", new_password_path(resource_name) %>
 
- <%= link_to "You don't need to see my identifcation", new_registration_path(resource_name) %><br />
+
+</center>

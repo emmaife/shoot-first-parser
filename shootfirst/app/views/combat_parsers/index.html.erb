@@ -1,9 +1,8 @@
 <p id="notice"><%= notice %></p>
 
-  <header>
-
-
+<header>
 </header>
+
 <center><h1><font color= "red">Uploaded Logs</font></h1></center>
 
 <table align="center">
@@ -12,25 +11,25 @@
   </thead>
 
   <tbody>
-
-      
         <th> Character</th>
         <th> Log</th>
         <th></th>
           <th></th>
-          <tr>
+      <tr>
+  <% @combat_parsers.each do |combat_parser| %>
 
-          
-    <% @combat_parsers.each do |combat_parser| %>
-        <td><strong><font color= "red"><%= combat_parser.player_character%></strong></td>
-         <td> <%= File.basename("#{combat_parser.log}") %></td>
+      <td><strong><font color= "red"><%= combat_parser.player_character%></strong></td>
 
-        <td><%= link_to 'Show', combat_parser %></td>
+      <td> <%= File.basename("#{combat_parser.log}") %></td>
+
+      <td><%= link_to 'Show', combat_parser %></td>
         
-        <td><%= link_to 'Edit', edit_combat_parser_path(combat_parser) %></td>
-        <td><%= link_to 'Destroy', combat_parser, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      <td><%= link_to 'Edit', edit_combat_parser_path(combat_parser) %></td>
+      
+      <td><%= link_to 'Destroy', combat_parser, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        
       </tr>
-    <% end %>
+<% end %>
 
   </tbody>
 

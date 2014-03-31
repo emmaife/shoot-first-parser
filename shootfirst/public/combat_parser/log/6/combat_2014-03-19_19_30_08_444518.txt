@@ -1,0 +1,686 @@
+[19:30:44.851] [@Legatus] [@Legatus] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[19:30:44.851] [@Legatus] [@Legatus] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[19:30:44.852] [@Legatus] [@Legatus] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Mark of Power {1781509484708115}] ()
+[19:30:44.853] [@Legatus] [@Legatus] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[19:30:44.853] [@Legatus] [@Legatus] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[19:30:45.260] [@Legatus] [@Legatus] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:30:45.260] [@Legatus] [@Legatus] [Juyo Form {807745909424128}] [ApplyEffect {836045448945477}: Juyo Form {807745909424128}] ()
+[19:30:45.935] [@Legatus:Jaesa Willsaam {587169274003456}] [@Legatus:Jaesa Willsaam {587169274003456}] [ {2531196026224640}] [ApplyEffect {836045448945477}: Coordination {2531196026224903}] ()
+[19:30:45.935] [@Legatus:Jaesa Willsaam {587169274003456}] [@Legatus:Jaesa Willsaam {587169274003456}] [ {2531196026224640}] [ApplyEffect {836045448945477}: Unnatural Might {2531196026224906}] ()
+[19:30:45.935] [@Legatus:Jaesa Willsaam {587169274003456}] [@Legatus:Jaesa Willsaam {587169274003456}] [ {2531196026224640}] [ApplyEffect {836045448945477}: Mark of Power {2531196026224909}] ()
+[19:30:45.936] [@Legatus:Jaesa Willsaam {587169274003456}] [@Legatus:Jaesa Willsaam {587169274003456}] [ {2531196026224640}] [ApplyEffect {836045448945477}: Hunter's Boon {2531196026224912}] ()
+[19:31:33.508] [@Legatus] [@Legatus] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[19:31:33.508] [@Legatus:Jaesa Willsaam {587169274003456}] [@Legatus:Jaesa Willsaam {587169274003456}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[19:31:51.100] [@Legatus] [@Legatus] [Grant Vehicle {1797435223441408}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:32:00.059] [@Legatus] [@Legatus] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:32:00.738] [@Legatus] [@Legatus] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[19:32:00.738] [@Legatus] [@Legatus] [Lucky-77 Swoop {3365398934192128}] [ApplyEffect {836045448945477}: Lucky-77 Swoop {3365398934192128}] ()
+[19:32:44.128] [@Legatus] [@Legatus] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[19:32:44.129] [@Legatus] [@Legatus] [Lucky-77 Swoop {3365398934192128}] [RemoveEffect {836045448945478}: Lucky-77 Swoop {3365398934192128}] ()
+[19:32:44.129] [@Legatus] [@Legatus] [Lucky-77 Swoop {3365398934192128}] [Event {836045448945472}: AbilityDeactivate {836045448945480}] ()
+[19:32:44.130] [@Legatus] [@Legatus] [Conversation {806968520343552}] [ApplyEffect {836045448945477}: In Conversation {806968520343876}] ()
+[19:32:50.553] [@Legatus] [@Legatus] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Coordination {1781509484708107}] ()
+[19:32:50.553] [@Legatus] [@Legatus] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Unnatural Might {1781509484707840}] ()
+[19:32:50.555] [@Legatus] [@Legatus] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Mark of Power {1781509484708115}] ()
+[19:32:50.555] [@Legatus] [@Legatus] [Unnatural Might {1781509484707840}] [ApplyEffect {836045448945477}: Hunter's Boon {1781509484708111}] ()
+[19:32:50.555] [@Legatus] [@Legatus] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[19:32:50.604] [@Legatus] [@Legatus] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:32:50.605] [@Legatus] [@Legatus] [Juyo Form {807745909424128}] [ApplyEffect {836045448945477}: Juyo Form {807745909424128}] ()
+[19:33:00.449] [@Legatus] [@Legatus] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[19:33:10.481] [@Legatus] [@Legatus] [Accessing Galaxy Map... {663009806516224}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:10.979] [@Legatus] [@Legatus] [Accessing Galaxy Map... {663009806516224}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
+[19:33:23.398] [@Legatus] [@Legatus] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:33:23.434] [@Legatus] [@Legatus] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:23.434] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:23.434] [@Legatus] [@Legatus] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:33:23.435] [@Legatus] [@Legatus] [Juyo Form {807745909424128}] [ApplyEffect {836045448945477}: Juyo Form {807745909424389}] ()
+[19:33:23.437] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[19:33:24.300] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (746 energy {836045448940874}) <746>
+[19:33:25.106] [@Legatus] [@Legatus] [Battering Assault {807720139620352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:25.106] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (6)
+[19:33:25.558] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (341 energy {836045448940874}) <341>
+[19:33:25.675] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:33:25.871] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (355 energy {836045448940874}) <355>
+[19:33:26.613] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:26.613] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:33:26.613] [@Legatus] [@Legatus] [Fury {2515454971084800}] [ApplyEffect {836045448945477}: Fury {2515454971084800}] ()
+[19:33:26.614] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:26.615] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Annihilator {808123866546433}] ()
+[19:33:26.975] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3755* energy {836045448940874}) <3755>
+[19:33:27.897] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:27.897] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:33:27.898] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Deadly Saber {1259666663276544}] ()
+[19:33:28.407] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:28.407] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Unshakable {1261367470326274}] ()
+[19:33:28.812] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[19:33:28.812] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [ApplyEffect {836045448945477}: Weakening Wound (Force) {3191173585830149}] ()
+[19:33:28.812] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (297 internal {836045448940876}) <297>
+[19:33:28.813] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1208 energy {836045448940874}) <1208>
+[19:33:28.813] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (88 energy {836045448940874}) <88>
+[19:33:29.000] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (386* energy {836045448940874}) <386>
+[19:33:29.313] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1196 energy {836045448940874}) <1196>
+[19:33:29.313] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:33:31.160] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:31.161] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1191* internal {836045448940876}) <1191>
+[19:33:31.161] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2280 energy {836045448940874}) <2280>
+[19:33:31.161] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (814 energy {836045448940874}) <814>
+[19:33:31.440] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [RemoveEffect {836045448945478}: Unshakable {1261367470326274}] ()
+[19:33:31.554] [@Legatus] [@Legatus] [Rupture {994791735164928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:31.554] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (2)
+[19:33:31.555] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[19:33:31.555] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:32.454] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (707 energy {836045448940874}) <707>
+[19:33:32.491] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (104* energy {836045448940874}) <104>
+[19:33:32.643] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[19:33:33.377] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:33.377] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:33:33.378] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:33.378] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:33.378] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:33:33.379] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Deadly Saber {1259666663276544}] ()
+[19:33:33.380] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:33.380] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:33.659] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:33:33.836] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (189* energy {836045448940874}) <189>
+[19:33:34.479] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (262 energy {836045448940874}) <262>
+[19:33:34.711] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:34.712] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:33:35.265] [@Legatus] [@Legatus] [Smash {807801743998976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:35.265] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:33:35.266] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Smash {807801743998976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1323 kinetic {836045448940873}) <1323>
+[19:33:35.560] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:35.561] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:33:35.987] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (266 energy {836045448940874}) <266>
+[19:33:36.541] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:36.542] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:33:36.543] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:33:36.853] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:36.853] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:33:36.854] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:36.855] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (115 energy {836045448940874}) <115>
+[19:33:37.638] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1447 energy {836045448940874}) <1447>
+[19:33:37.650] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:33:37.650] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[19:33:38.351] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:38.352] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (266 energy {836045448940874}) <266>
+[19:33:38.352] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:38.353] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:38.353] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:38.490] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (97 energy {836045448940874}) <97>
+[19:33:39.142] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (463* energy {836045448940874}) <463>
+[19:33:39.447] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:39.448] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:33:39.448] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[19:33:40.154] [@Legatus] [@Legatus] [Battering Assault {807720139620352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:40.154] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (6)
+[19:33:40.764] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (391 energy {836045448940874}) <391>
+[19:33:40.875] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:33:40.990] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (266 energy {836045448940874}) <266>
+[19:33:41.070] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (389 energy {836045448940874}) <389>
+[19:33:41.659] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:41.660] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:33:41.660] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:42.443] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [RemoveEffect {836045448945478}: Weakening Wound (Force) {3191173585830149}] ()
+[19:33:42.568] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2412 energy {836045448940874}) <2412>
+[19:33:43.353] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:43.353] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:33:43.354] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:43.354] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:33:43.995] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:33:44.008] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1381 energy {836045448940874}) <1381>
+[19:33:44.459] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:44.459] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:33:44.461] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Deadly Saber {1259666663276544}] ()
+[19:33:45.054] [@Legatus] [@Legatus] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:45.055] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:45.055] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[19:33:45.055] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [ApplyEffect {836045448945477}: Weakening Wound (Force) {3191173585830149}] ()
+[19:33:45.056] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:45.056] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:45.056] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:33:45.057] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[19:33:45.960] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (812 energy {836045448940874}) <812>
+[19:33:46.253] [@Legatus] [@Legatus] [Berserk {807724434587648}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:46.253] [@Legatus] [@Legatus] [Fury {2515454971084800}] [RemoveEffect {836045448945478}: Fury {2515454971084800}] ()
+[19:33:46.254] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Berserk {807724434587648}] ()
+[19:33:47.061] [@Legatus] [@Legatus] [Rupture {994791735164928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:47.061] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (2)
+[19:33:47.061] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[19:33:47.062] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:47.062] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:47.062] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1211* internal {836045448940876}) <1211>
+[19:33:47.835] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (656 energy {836045448940874}) <656>
+[19:33:47.871] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (57 energy {836045448940874}) <57>
+[19:33:48.154] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:48.154] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:48.154] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:48.155] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:33:48.657] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:48.658] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:33:48.658] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:48.658] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:48.658] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:48.658] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:33:48.659] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Deadly Saber {1259666663276544}] ()
+[19:33:48.659] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (132 energy {836045448940874}) <132>
+[19:33:49.151] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:49.152] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:49.152] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:33:49.311] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1297 energy {836045448940874}) <1297>
+[19:33:50.152] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:50.153] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:50.153] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:50.153] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:33:50.256] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:50.257] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (252 energy {836045448940874}) <252>
+[19:33:50.258] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:50.258] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:51.114] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:51.115] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:51.115] [@Legatus] [@Legatus] [Berserk {807724434587648}] [RemoveEffect {836045448945478}: Berserk {807724434587648}] ()
+[19:33:51.116] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:33:51.710] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:33:51.813] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:51.814] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (295 energy {836045448940874}) <295>
+[19:33:51.814] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:51.815] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:51.815] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:52.116] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:33:52.139] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:33:52.993] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:33:52.993] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:33:52.994] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (261 energy {836045448940874}) <261>
+[19:33:53.148] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:53.149] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:33:53.149] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[19:33:53.357] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:53.357] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:33:53.357] [@Legatus] [@Legatus] [Fury {2515454971084800}] [ApplyEffect {836045448945477}: Fury {2515454971084800}] ()
+[19:33:53.358] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:53.358] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:53.990] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (293 energy {836045448940874}) <293>
+[19:33:53.990] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (473* energy {836045448940874}) <473>
+[19:33:54.262] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2433 energy {836045448940874}) <2433>
+[19:33:54.895] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:33:54.895] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[19:33:54.895] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:54.895] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:33:54.896] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:33:54.896] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (135 energy {836045448940874}) <135>
+[19:33:55.668] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1331 energy {836045448940874}) <1331>
+[19:33:55.986] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (318* energy {836045448940874}) <318>
+[19:33:56.492] [@Legatus] [@Legatus] [Battering Assault {807720139620352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:56.493] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (6)
+[19:33:57.085] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (388 energy {836045448940874}) <388>
+[19:33:57.197] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (78 energy {836045448940874}) <78>
+[19:33:57.396] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (388 energy {836045448940874}) <388>
+[19:33:57.883] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [RemoveEffect {836045448945478}: Weakening Wound (Force) {3191173585830149}] ()
+[19:33:58.899] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:58.899] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:33:58.899] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Deadly Saber {1259666663276544}] ()
+[19:33:59.407] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:33:59.408] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Unshakable {1261367470326274}] ()
+[19:33:59.802] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[19:33:59.802] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [ApplyEffect {836045448945477}: Weakening Wound (Force) {3191173585830149}] ()
+[19:33:59.803] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:33:59.803] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:33:59.803] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2125* energy {836045448940874}) <2125>
+[19:33:59.804] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (112 energy {836045448940874}) <112>
+[19:34:00.090] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1272 energy {836045448940874}) <1272>
+[19:34:00.090] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (108 energy {836045448940874}) <108>
+[19:34:02.081] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:02.081] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (616 internal {836045448940876}) <616>
+[19:34:02.082] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4089* energy {836045448940874}) <4089>
+[19:34:02.082] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (587 energy {836045448940874}) <587>
+[19:34:02.372] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [RemoveEffect {836045448945478}: Unshakable {1261367470326274}] ()
+[19:34:02.977] [@Legatus] [@Legatus] [Rupture {994791735164928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:02.977] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (2)
+[19:34:02.977] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[19:34:03.761] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1166* energy {836045448940874}) <1166>
+[19:34:03.790] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (69 energy {836045448940874}) <69>
+[19:34:04.082] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:04.082] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:04.579] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:04.579] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:34:04.579] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:04.580] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:04.580] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:34:04.581] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Deadly Saber {1259666663276544}] ()
+[19:34:05.066] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:05.482] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2632 energy {836045448940874}) <2632>
+[19:34:06.062] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:06.062] [@Legatus] [@Legatus] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:06.063] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:06.064] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[19:34:06.982] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (781 energy {836045448940874}) <781>
+[19:34:06.996] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (227 energy {836045448940874}) <227>
+[19:34:07.070] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:07.070] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:07.071] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:07.682] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:34:07.682] [@Legatus] [@Legatus] [Deadly Throw {2480438102720512}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:07.682] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:07.864] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [ApplyEffect {836045448945477}: Trauma {2480438102720770}] ()
+[19:34:07.875] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (949 energy {836045448940874}) <949>
+[19:34:08.067] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:09.067] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:09.068] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:09.068] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[19:34:09.173] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:09.173] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:09.174] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:09.174] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:34:09.953] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1367 energy {836045448940874}) <1367>
+[19:34:10.573] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:34:10.573] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[19:34:10.789] [@Legatus] [@Legatus] [Dual Saber Throw {3066602354376704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:11.373] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Dual Saber Throw {3066602354376704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1555 energy {836045448940874}) <1555>
+[19:34:11.373] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Dual Saber Throw {3066602354376704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:34:12.280] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:12.280] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:12.281] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:12.282] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:34:13.058] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1387 energy {836045448940874}) <1387>
+[19:34:13.597] [@Legatus] [@Legatus] [Berserk {807724434587648}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:13.597] [@Legatus] [@Legatus] [Fury {2515454971084800}] [RemoveEffect {836045448945478}: Fury {2515454971084800}] ()
+[19:34:13.598] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Berserk {807724434587648}] ()
+[19:34:13.825] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [RemoveEffect {836045448945478}: Weakening Wound (Force) {3191173585830149}] ()
+[19:34:14.612] [@Legatus] [@Legatus] [Battering Assault {807720139620352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:14.613] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (6)
+[19:34:15.214] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (388 energy {836045448940874}) <388>
+[19:34:15.333] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (118* energy {836045448940874}) <118>
+[19:34:15.530] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (387 energy {836045448940874}) <387>
+[19:34:15.637] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:15.637] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:15.637] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Deadly Saber {1259666663276544}] ()
+[19:34:16.638] [@Legatus] [@Legatus] [Rupture {994791735164928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:16.638] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (2)
+[19:34:16.638] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[19:34:16.638] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:16.639] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[19:34:16.639] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [ApplyEffect {836045448945477}: Weakening Wound (Force) {3191173585830149}] ()
+[19:34:16.639] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:16.639] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:16.639] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:16.640] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:17.412] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1151* energy {836045448940874}) <1151>
+[19:34:17.451] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (54 energy {836045448940874}) <54>
+[19:34:17.729] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:17.729] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:17.730] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:18.456] [@Legatus] [@Legatus] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:18.456] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:18.457] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:18.457] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:18.458] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1211* internal {836045448940876}) <1211>
+[19:34:18.458] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[19:34:18.651] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:18.651] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:18.651] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:18.652] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:19.360] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (827 energy {836045448940874}) <827>
+[19:34:19.646] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:19.646] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:19.646] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:20.069] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:20.069] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:34:20.069] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:20.069] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:20.070] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:20.070] [@Legatus] [@Legatus] [Berserk {807724434587648}] [RemoveEffect {836045448945478}: Berserk {807724434587648}] ()
+[19:34:20.070] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:34:20.071] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Deadly Saber {1259666663276544}] ()
+[19:34:20.648] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:20.649] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:20.975] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2644 energy {836045448940874}) <2644>
+[19:34:21.663] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:21.663] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:21.663] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:21.664] [@Legatus] [@Legatus] [Fury {2515454971084800}] [ApplyEffect {836045448945477}: Fury {2515454971084800}] ()
+[19:34:21.664] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:21.664] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:34:22.435] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1298 energy {836045448940874}) <1298>
+[19:34:22.651] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:22.652] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[19:34:22.955] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [RemoveEffect {836045448945478}: Trauma {2480438102720770}] ()
+[19:34:22.990] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:34:23.048] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:34:23.362] [@Legatus] [@Legatus] [Smash {807801743998976}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:23.362] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:23.363] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Smash {807801743998976}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1254 kinetic {836045448940873}) <1254>
+[19:34:24.855] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:24.856] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (303 energy {836045448940874}) <303>
+[19:34:24.857] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:24.857] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:25.189] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:34:26.056] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:26.057] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:34:26.057] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[19:34:26.361] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:26.362] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:26.362] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:26.363] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (124 energy {836045448940874}) <124>
+[19:34:26.997] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (298 energy {836045448940874}) <298>
+[19:34:26.997] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (261 energy {836045448940874}) <261>
+[19:34:27.133] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1298 energy {836045448940874}) <1298>
+[19:34:28.139] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:28.140] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (474* energy {836045448940874}) <474>
+[19:34:28.141] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:28.141] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:29.143] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [RemoveEffect {836045448945478}: Weakening Wound (Force) {3191173585830149}] ()
+[19:34:29.360] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:29.360] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:29.360] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Deadly Saber {1259666663276544}] ()
+[19:34:30.991] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:34:30.991] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:34:30.991] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (262 energy {836045448940874}) <262>
+[19:34:31.053] [@Legatus] [@Legatus] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:31.054] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:31.054] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[19:34:31.054] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [ApplyEffect {836045448945477}: Weakening Wound (Force) {3191173585830149}] ()
+[19:34:31.055] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:31.055] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:31.056] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[19:34:31.959] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (818 energy {836045448940874}) <818>
+[19:34:33.356] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:33.357] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Unshakable {1261367470326274}] ()
+[19:34:33.749] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:33.749] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:33.750] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1211* internal {836045448940876}) <1211>
+[19:34:33.750] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1222 energy {836045448940874}) <1222>
+[19:34:33.750] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:34:34.046] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1244 energy {836045448940874}) <1244>
+[19:34:34.047] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (103 energy {836045448940874}) <103>
+[19:34:36.157] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:36.157] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:36.158] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:34:36.158] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Deadly Saber {1259666663276544}] ()
+[19:34:36.158] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2373 energy {836045448940874}) <2373>
+[19:34:36.159] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (851 energy {836045448940874}) <851>
+[19:34:36.458] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [RemoveEffect {836045448945478}: Unshakable {1261367470326274}] ()
+[19:34:36.760] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:36.760] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:34:36.761] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:37.581] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2641 energy {836045448940874}) <2641>
+[19:34:38.369] [@Legatus] [@Legatus] [Battering Assault {807720139620352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:38.369] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:38.370] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (6)
+[19:34:38.962] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (638* energy {836045448940874}) <638>
+[19:34:38.990] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:34:39.079] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (90 energy {836045448940874}) <90>
+[19:34:39.158] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [RemoveEffect {836045448945478}: Weakening Wound (Force) {3191173585830149}] ()
+[19:34:39.159] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [ApplyEffect {836045448945477}: Weakening Wound (Force) {3191173585830149}] ()
+[19:34:39.159] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:39.159] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:34:39.275] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (385 energy {836045448940874}) <385>
+[19:34:39.866] [@Legatus] [@Legatus] [Rupture {994791735164928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:39.866] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (2)
+[19:34:39.867] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[19:34:39.867] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:40.638] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1183* energy {836045448940874}) <1183>
+[19:34:40.680] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (63 energy {836045448940874}) <63>
+[19:34:40.858] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:40.859] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:41.560] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:41.561] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (277 energy {836045448940874}) <277>
+[19:34:41.562] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:41.562] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:41.858] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:41.858] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:42.156] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:42.156] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:34:42.156] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[19:34:42.277] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:34:42.944] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:42.944] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:43.159] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:43.159] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:34:43.159] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:43.914] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:43.914] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:43.915] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:43.989] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (259 energy {836045448940874}) <259>
+[19:34:43.990] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (250 energy {836045448940874}) <250>
+[19:34:44.072] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2466 energy {836045448940874}) <2466>
+[19:34:44.725] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:44.725] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:44.726] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Deadly Saber {1259666663276544}] ()
+[19:34:44.914] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:45.023] [@Legatus] [@Legatus] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:45.023] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:45.023] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[19:34:45.024] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:45.025] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[19:34:45.915] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:45.915] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[19:34:45.936] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (838 energy {836045448940874}) <838>
+[19:34:45.994] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (199 energy {836045448940874}) <199>
+[19:34:46.341] [@Legatus] [@Legatus] [Berserk {807724434587648}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:46.342] [@Legatus] [@Legatus] [Fury {2515454971084800}] [RemoveEffect {836045448945478}: Fury {2515454971084800}] ()
+[19:34:46.342] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Berserk {807724434587648}] ()
+[19:34:46.939] [@Legatus] [@Legatus] [Rupture {994791735164928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:46.939] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (2)
+[19:34:46.939] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[19:34:46.940] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:46.940] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:46.940] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:46.941] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1211* internal {836045448940876}) <1211>
+[19:34:47.715] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1072* energy {836045448940874}) <1072>
+[19:34:47.756] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:34:48.029] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:48.029] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:48.029] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:48.030] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:48.427] [@Legatus] [@Legatus] [Deadly Throw {2480438102720512}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:48.427] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:48.622] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [ApplyEffect {836045448945477}: Trauma {2480438102720770}] ()
+[19:34:48.626] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (986 energy {836045448940874}) <986>
+[19:34:49.030] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:49.031] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:49.032] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:49.938] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:49.939] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:34:49.939] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:49.940] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:49.940] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:49.940] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:49.940] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:34:49.941] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Deadly Saber {1259666663276544}] ()
+[19:34:50.026] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:50.026] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:50.027] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:50.775] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4136* energy {836045448940874}) <4136>
+[19:34:51.031] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:51.031] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:51.032] [@Legatus] [@Legatus] [Berserk {807724434587648}] [RemoveEffect {836045448945478}: Berserk {807724434587648}] ()
+[19:34:51.032] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:51.834] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:51.834] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:34:51.834] [@Legatus] [@Legatus] [Fury {2515454971084800}] [ApplyEffect {836045448945477}: Fury {2515454971084800}] ()
+[19:34:51.835] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:51.835] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:51.835] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (178* energy {836045448940874}) <178>
+[19:34:51.990] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (370* energy {836045448940874}) <370>
+[19:34:52.023] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:52.024] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:52.539] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2289* energy {836045448940874}) <2289>
+[19:34:53.026] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:53.027] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:53.027] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[19:34:53.027] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:34:53.433] [@Legatus] [@Legatus] [Rupture {994791735164928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:53.433] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (2)
+[19:34:53.434] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[19:34:53.434] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:54.205] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (653 energy {836045448940874}) <653>
+[19:34:54.243] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (90* energy {836045448940874}) <90>
+[19:34:54.526] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:55.031] [@Legatus] [@Legatus] [Battering Assault {807720139620352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:55.031] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:55.031] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (6)
+[19:34:55.431] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:55.431] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:55.432] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:55.629] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (387 energy {836045448940874}) <387>
+[19:34:55.744] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (79 energy {836045448940874}) <79>
+[19:34:55.941] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (650* energy {836045448940874}) <650>
+[19:34:56.026] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:56.027] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:34:56.027] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[19:34:56.428] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:56.429] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:56.836] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:56.836] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:34:56.837] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:57.429] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:57.634] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2666 energy {836045448940874}) <2666>
+[19:34:58.341] [@Legatus] [@Legatus] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:34:58.342] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:34:58.343] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[19:34:58.428] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:34:58.989] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:34:59.246] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (771 energy {836045448940874}) <771>
+[19:34:59.430] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:34:59.430] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:34:59.431] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[19:35:00.640] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:00.640] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:35:00.640] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Deadly Saber {1259666663276544}] ()
+[19:35:02.342] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:02.342] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:35:02.343] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:02.343] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[19:35:02.343] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:02.344] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:35:02.344] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:35:03.028] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1391 energy {836045448940874}) <1391>
+[19:35:03.625] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [RemoveEffect {836045448945478}: Trauma {2480438102720770}] ()
+[19:35:05.688] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:05.688] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:05.688] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:35:05.782] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:05.782] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:35:05.783] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (616 internal {836045448940876}) <616>
+[19:35:05.783] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:05.784] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:05.784] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:06.500] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:35:07.301] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:07.301] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:35:07.301] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:07.302] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:35:07.303] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Deadly Saber {1259666663276544}] ()
+[19:35:07.303] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:07.993] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (275 energy {836045448940874}) <275>
+[19:35:07.994] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (415* energy {836045448940874}) <415>
+[19:35:08.204] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2530 energy {836045448940874}) <2530>
+[19:35:08.894] [@Legatus] [@Legatus] [Rupture {994791735164928}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:08.894] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (2)
+[19:35:08.894] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Bleeding (Physical) {994791735165220}] ()
+[19:35:09.669] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (685 energy {836045448940874}) <685>
+[19:35:09.709] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (54 energy {836045448940874}) <54>
+[19:35:09.881] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:35:09.993] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (445* energy {836045448940874}) <445>
+[19:35:10.391] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (924 internal {836045448940876}) <924>
+[19:35:10.595] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:10.595] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Unshakable {1261367470326274}] ()
+[19:35:10.890] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:10.890] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:35:10.987] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1308 energy {836045448940874}) <1308>
+[19:35:10.988] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:10.988] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (213* energy {836045448940874}) <213>
+[19:35:11.507] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1951* energy {836045448940874}) <1951>
+[19:35:11.507] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (87 energy {836045448940874}) <87>
+[19:35:12.094] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:12.094] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:35:13.049] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:35:14.201] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:35:14.201] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Ravage {1261367470325760}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (719 energy {836045448940874}) <719>
+[19:35:14.202] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:14.202] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:35:14.202] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[19:35:14.203] [@Legatus] [@Legatus] [Ravage {1261367470325760}] [RemoveEffect {836045448945478}: Unshakable {1261367470326274}] ()
+[19:35:14.203] [@Legatus] [@Legatus] [Force Charge {807750204391424}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:14.203] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:14.204] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (3)
+[19:35:14.334] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:14.335] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (308 internal {836045448940876}) <308>
+[19:35:15.127] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:15.128] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {994791735165220}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:35:15.128] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Rupture {994791735164928}] [RemoveEffect {836045448945478}: Bleeding (Physical) {994791735165220}] ()
+[19:35:15.150] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:15.151] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:35:15.152] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Deadly Saber {1259666663276544}] ()
+[19:35:15.275] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Force Charge {807750204391424}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (832 energy {836045448940874}) <832>
+[19:35:16.148] [@Legatus] [@Legatus] [Berserk {807724434587648}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:16.148] [@Legatus] [@Legatus] [Fury {2515454971084800}] [RemoveEffect {836045448945478}: Fury {2515454971084800}] ()
+[19:35:16.149] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Berserk {807724434587648}] ()
+[19:35:16.750] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:16.750] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:35:16.750] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:16.751] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [ApplyEffect {836045448945477}: Bleeding (Physical) {1259666663276824}] ()
+[19:35:16.751] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:16.751] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:16.752] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:35:17.601] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2641 energy {836045448940874}) <2641>
+[19:35:18.351] [@Legatus] [@Legatus] [Deadly Throw {2480438102720512}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:18.351] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:35:18.438] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [ApplyEffect {836045448945477}: Trauma {2480438102720770}] ()
+[19:35:18.745] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1013 energy {836045448940874}) <1013>
+[19:35:18.997] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:35:19.844] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:19.844] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:19.845] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (605* internal {836045448940876}) <605>
+[19:35:19.948] [@Legatus] [@Legatus] [Battering Assault {807720139620352}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:19.948] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:19.948] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:19.948] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:19.949] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1211* internal {836045448940876}) <1211>
+[19:35:19.949] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (6)
+[19:35:20.439] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (614* energy {836045448940874}) <614>
+[19:35:20.553] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (86 energy {836045448940874}) <86>
+[19:35:20.749] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Battering Assault {807720139620352}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (388 energy {836045448940874}) <388>
+[19:35:21.548] [@Legatus] [@Legatus] [Dual Saber Throw {3066602354376704}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:22.157] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:22.157] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:22.158] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:22.158] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:35:22.158] [@Legatus] [@Legatus] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Deadly Saber {1259666663276544}] ()
+[19:35:22.159] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Dual Saber Throw {3066602354376704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2543* energy {836045448940874}) <2543>
+[19:35:22.159] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Dual Saber Throw {3066602354376704}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (122 energy {836045448940874}) <122>
+[19:35:23.154] [@Legatus] [@Legatus] [Annihilate {808123866546176}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:23.154] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (5)
+[19:35:23.154] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:23.938] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4152* energy {836045448940874}) <4152>
+[19:35:24.646] [@Legatus] [@Legatus] [Vicious Slash {807827513802752}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:24.646] [@Legatus] [@Legatus] [] [Spend {836045448945473}: rage point {836045448938497}] (3)
+[19:35:24.646] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:24.647] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:24.647] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (180* energy {836045448940874}) <180>
+[19:35:25.146] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [RemoveEffect {836045448945478}: Weakening Wound (Force) {3191173585830149}] ()
+[19:35:25.146] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [ApplyEffect {836045448945477}: Weakening Wound (Force) {3191173585830149}] ()
+[19:35:25.146] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:25.147] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:25.147] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:35:25.426] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Vicious Slash {807827513802752}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1430 energy {836045448940874}) <1430>
+[19:35:25.995] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Annihilate {808123866546176}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (383* energy {836045448940874}) <383>
+[19:35:26.146] [@Legatus] [@Legatus] [Assault {898601647603712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:26.147] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (280 energy {836045448940874}) <280>
+[19:35:26.147] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:26.149] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:26.149] [@Legatus] [@Legatus] [] [Restore {836045448945476}: rage point {836045448938497}] (1)
+[19:35:26.286] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (178* energy {836045448940874}) <178>
+[19:35:26.926] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (264 energy {836045448940874}) <264>
+[19:35:28.147] [@Legatus] [@Legatus] [Hungering {1261152721960960}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:28.147] [@Legatus] [@Legatus] [Berserk {807724434587648}] [ApplyEffect {836045448945477}: Heal {836045448945500}] (259)
+[19:35:28.147] [@Legatus] [@Legatus] [Berserk {807724434587648}] [RemoveEffect {836045448945478}: Berserk {807724434587648}] ()
+[19:35:28.147] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Bleeding (Physical) {1259666663276824}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1817* internal {836045448940876}) <1817>
+[19:35:28.148] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Saber {1259666663276544}] [RemoveEffect {836045448945478}: Bleeding (Physical) {1259666663276824}] ()
+[19:35:28.995] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Assault {898601647603712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (287 energy {836045448940874}) <287>
+[19:35:29.171] [@Legatus] [@Legatus] [Force Camouflage {807741614456832}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:35:29.172] [@Legatus] [@Legatus] [Force Camouflage {807741614456832}] [ApplyEffect {836045448945477}: Force Camouflage {807741614456832}] ()
+[19:35:31.418] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Agonizing Sabers {3191173585829888}] [RemoveEffect {836045448945478}: Weakening Wound (Force) {3191173585830149}] ()
+[19:35:33.232] [@Legatus] [@Legatus] [Force Camouflage {807741614456832}] [RemoveEffect {836045448945478}: Force Camouflage {807741614456832}] ()
+[19:35:33.512] [@Legatus] [Operations Training Dummy {2857785339412480}:140013075426] [Deadly Throw {2480438102720512}] [RemoveEffect {836045448945478}: Trauma {2480438102720770}] ()
+[19:35:34.223] [@Legatus] [@Legatus] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:35:34.229] [@Legatus] [@Legatus] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()

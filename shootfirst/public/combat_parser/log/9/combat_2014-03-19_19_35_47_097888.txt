@@ -1,0 +1,389 @@
+[19:36:57.749] [@Xal'ya] [@Xal'ya] [Major Experience Boost {3058699614552064}] [ApplyEffect {836045448945477}: Major Experience Boost {3058699614552064}] ()
+[19:36:57.750] [@Xal'ya] [@Xal'ya] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[19:36:57.948] [@Xal'ya] [@Xal'ya] [Shii-Cho Form {989307061927936}] [ApplyEffect {836045448945477}: Shii-Cho Form {989307061927936}] ()
+[19:36:57.948] [@Xal'ya] [@Xal'ya] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:37:42.230] [@Xal'ya] [@Xal'ya] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[19:37:42.230] [@Xal'ya:HK-51 {779317520891904}] [@Xal'ya:HK-51 {779317520891904}] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[19:37:59.293] [@Xal'ya] [@Xal'ya] [Priority Transport: Personal Starship {3215556115169280}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:38:10.675] [@Xal'ya] [@Xal'ya] [Major Experience Boost {3058699614552064}] [ApplyEffect {836045448945477}: Major Experience Boost {3058699614552064}] ()
+[19:38:10.677] [@Xal'ya] [@Xal'ya] [Safe Login {973870949466112}] [ApplyEffect {836045448945477}: Safe Login Immunity {973870949466372}] ()
+[19:38:10.725] [@Xal'ya] [@Xal'ya] [Shii-Cho Form {989307061927936}] [ApplyEffect {836045448945477}: Shii-Cho Form {989307061927936}] ()
+[19:38:10.726] [@Xal'ya] [@Xal'ya] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:38:21.309] [@Xal'ya] [@Xal'ya] [Safe Login {973870949466112}] [RemoveEffect {836045448945478}: Safe Login Immunity {973870949466372}] ()
+[19:39:11.628] [@Xal'ya] [@Xal'ya] [Force Might {1781496599805952}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:11.629] [@Xal'ya] [@Xal'ya] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[19:39:11.629] [@Xal'ya] [@Xal'ya:C2-N2 {941130413768704}] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Might {1781496599805952}] ()
+[19:39:11.631] [@Xal'ya] [@Xal'ya] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[19:39:11.631] [@Xal'ya] [@Xal'ya:C2-N2 {941130413768704}] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Force Valor {1781496599806219}] ()
+[19:39:11.631] [@Xal'ya] [@Xal'ya] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[19:39:11.631] [@Xal'ya] [@Xal'ya:C2-N2 {941130413768704}] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Lucky Shots {1781496599806223}] ()
+[19:39:11.632] [@Xal'ya] [@Xal'ya] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[19:39:11.632] [@Xal'ya] [@Xal'ya:C2-N2 {941130413768704}] [Force Might {1781496599805952}] [ApplyEffect {836045448945477}: Fortification {1781496599806227}] ()
+[19:39:16.867] [@Xal'ya] [@Xal'ya] [Saber Throw {812165430771712}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:16.868] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[19:39:17.461] [@Xal'ya] [@Xal'ya] [] [Event {836045448945472}: EnterCombat {836045448945489}] ()
+[19:39:17.485] [@Xal'ya] [@Xal'ya] [Sprint {810670782152704}] [RemoveEffect {836045448945478}: Sprint {810670782152704}] ()
+[19:39:17.507] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Saber Throw {812165430771712}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:39:18.490] [@Xal'ya] [@Xal'ya] [Force Leap {812105301229568}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:18.490] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [ApplyEffect {836045448945477}: Felling Blow {1263403284824326}] ()
+[19:39:18.491] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [ApplyEffect {836045448945477}: Intervention {3187351064936448}] ()
+[19:39:18.493] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (3)
+[19:39:19.131] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Leap {812105301229568}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (622 energy {836045448940874}) <622>
+[19:39:19.964] [@Xal'ya] [@Xal'ya] [Zealous Leap {1263330270380032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:19.964] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[19:39:20.670] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Zealous Leap {1263330270380032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1340 energy {836045448940874}) <1340>
+[19:39:21.476] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:21.476] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:39:21.476] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Armor Reduced {998060205277460}] ()
+[19:39:21.477] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (4)
+[19:39:21.477] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:22.341] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (671 energy {836045448940874}) <671>
+[19:39:24.182] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:24.182] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Unshakable {812139660968471}] ()
+[19:39:24.565] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1082 energy {836045448940874}) <1082>
+[19:39:24.867] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (998 energy {836045448940874}) <998>
+[19:39:25.972] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [RemoveEffect {836045448945478}: Intervention {3187351064936448}] ()
+[19:39:26.968] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2199 energy {836045448940874}) <2199>
+[19:39:27.271] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [RemoveEffect {836045448945478}: Unshakable {812139660968471}] ()
+[19:39:27.478] [@Xal'ya] [@Xal'ya] [Force Exhaustion {1263338860314624}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:27.479] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:39:27.479] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [ApplyEffect {836045448945477}: Crushed (Force) {1263338860314909}] ()
+[19:39:27.479] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[19:39:28.579] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Singularity {1417102984478720}] ()
+[19:39:28.579] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (371 kinetic {836045448940873}) <371>
+[19:39:29.084] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:29.084] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:39:29.084] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (163* energy {836045448940874}) <163>
+[19:39:29.583] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (371 kinetic {836045448940873}) <371>
+[19:39:29.880] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1233 energy {836045448940874}) <1233>
+[19:39:30.583] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1114 kinetic {836045448940873}) <1114>
+[19:39:30.584] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [RemoveEffect {836045448945478}: Crushed (Force) {1263338860314909}] ()
+[19:39:31.086] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:31.087] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Dust Storm {1282013378117632}] [ApplyEffect {836045448945477}: Accuracy Reduced (Force) {1282013378117888}] ()
+[19:39:31.087] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3899* kinetic {836045448940873}) <3899>
+[19:39:31.281] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Singularity {1417102984478720}] ()
+[19:39:31.698] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:39:31.698] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [RemoveEffect {836045448945478}: Felling Blow {1263403284824326}] ()
+[19:39:32.738] [@Xal'ya] [@Xal'ya] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:32.738] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (4)
+[19:39:33.011] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2859* kinetic {836045448940873}) <2859>
+[19:39:34.230] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:34.230] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:39:34.230] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (4)
+[19:39:34.230] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:35.091] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (809 energy {836045448940874}) <809>
+[19:39:36.027] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:36.027] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:39:36.028] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (105 energy {836045448940874}) <105>
+[19:39:36.717] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1360 energy {836045448940874}) <1360>
+[19:39:37.744] [@Xal'ya] [@Xal'ya] [Zealous Leap {1263330270380032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:37.744] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[19:39:37.744] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [ApplyEffect {836045448945477}: Felling Blow {1263403284824326}] ()
+[19:39:37.745] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [ApplyEffect {836045448945477}: Intervention {3187351064936448}] ()
+[19:39:37.837] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:39:38.382] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Zealous Leap {1263330270380032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1681 energy {836045448940874}) <1681>
+[19:39:39.426] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:39.426] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:39:39.426] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (97 energy {836045448940874}) <97>
+[19:39:40.091] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1250 energy {836045448940874}) <1250>
+[19:39:41.218] [@Xal'ya] [@Xal'ya] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:41.219] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (222 energy {836045448940874}) <222>
+[19:39:41.220] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:41.220] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:41.433] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (232 energy {836045448940874}) <232>
+[19:39:42.020] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (212 energy {836045448940874}) <212>
+[19:39:42.727] [@Xal'ya] [@Xal'ya] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:42.728] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (229 energy {836045448940874}) <229>
+[19:39:42.729] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:42.729] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:43.404] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:39:43.729] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [RemoveEffect {836045448945478}: Intervention {3187351064936448}] ()
+[19:39:44.437] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:44.437] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:39:44.438] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2284* kinetic {836045448940873}) <2284>
+[19:39:45.041] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:39:45.042] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [RemoveEffect {836045448945478}: Felling Blow {1263403284824326}] ()
+[19:39:45.042] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (240 energy {836045448940874}) <240>
+[19:39:46.335] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:46.335] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:39:46.335] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (4)
+[19:39:46.335] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:47.191] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (756 energy {836045448940874}) <756>
+[19:39:47.941] [@Xal'ya] [@Xal'ya] [Force Exhaustion {1263338860314624}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:47.942] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:39:47.942] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [ApplyEffect {836045448945477}: Crushed (Force) {1263338860314909}] ()
+[19:39:47.943] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Singularity {1417102984478720}] ()
+[19:39:47.943] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (402 kinetic {836045448940873}) <402>
+[19:39:48.939] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (402 kinetic {836045448940873}) <402>
+[19:39:49.648] [@Xal'ya] [@Xal'ya] [Zealous Leap {1263330270380032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:49.648] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[19:39:49.648] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [ApplyEffect {836045448945477}: Felling Blow {1263403284824326}] ()
+[19:39:49.649] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [ApplyEffect {836045448945477}: Intervention {3187351064936448}] ()
+[19:39:49.938] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (687* kinetic {836045448940873}) <687>
+[19:39:50.290] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Zealous Leap {1263330270380032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1529 energy {836045448940874}) <1529>
+[19:39:50.942] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1206 kinetic {836045448940873}) <1206>
+[19:39:50.943] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [RemoveEffect {836045448945478}: Crushed (Force) {1263338860314909}] ()
+[19:39:51.059] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:39:51.242] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:51.242] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:39:51.242] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (93 energy {836045448940874}) <93>
+[19:39:52.038] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1209 energy {836045448940874}) <1209>
+[19:39:52.834] [@Xal'ya] [@Xal'ya] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:52.835] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (214 energy {836045448940874}) <214>
+[19:39:52.836] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:52.836] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:39:53.045] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (237 energy {836045448940874}) <237>
+[19:39:54.331] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:54.331] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3791* kinetic {836045448940873}) <3791>
+[19:39:54.527] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Singularity {1417102984478720}] ()
+[19:39:54.949] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:39:54.950] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [RemoveEffect {836045448945478}: Felling Blow {1263403284824326}] ()
+[19:39:55.023] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:39:55.720] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [RemoveEffect {836045448945478}: Intervention {3187351064936448}] ()
+[19:39:55.929] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:39:55.929] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Unshakable {812139660968471}] ()
+[19:39:56.222] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1173 energy {836045448940874}) <1173>
+[19:39:56.620] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1076 energy {836045448940874}) <1076>
+[19:39:58.628] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2233 energy {836045448940874}) <2233>
+[19:39:58.936] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [RemoveEffect {836045448945478}: Unshakable {812139660968471}] ()
+[19:40:00.380] [@Xal'ya] [@Xal'ya] [Force Push {1681844768604160}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:00.722] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Push {1681844768604160}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2007* kinetic {836045448940873}) <2007>
+[19:40:01.150] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:40:02.058] [@Xal'ya] [@Xal'ya] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:02.058] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -miss {836045448945502}) <1>
+[19:40:02.059] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:02.059] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:02.273] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (199 energy {836045448940874}) <199>
+[19:40:02.863] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (222 energy {836045448940874}) <222>
+[19:40:03.566] [@Xal'ya] [@Xal'ya] [Zealous Leap {1263330270380032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:03.566] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[19:40:03.567] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [ApplyEffect {836045448945477}: Felling Blow {1263403284824326}] ()
+[19:40:03.567] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [ApplyEffect {836045448945477}: Intervention {3187351064936448}] ()
+[19:40:04.203] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Zealous Leap {1263330270380032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1511 energy {836045448940874}) <1511>
+[19:40:05.088] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:05.088] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:40:05.089] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (4)
+[19:40:05.089] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:05.935] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (751 energy {836045448940874}) <751>
+[19:40:06.954] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:06.954] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:06.954] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2185* kinetic {836045448940873}) <2185>
+[19:40:07.566] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:40:07.567] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [RemoveEffect {836045448945478}: Felling Blow {1263403284824326}] ()
+[19:40:08.547] [@Xal'ya] [@Xal'ya] [Force Exhaustion {1263338860314624}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:08.547] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:09.649] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [RemoveEffect {836045448945478}: Intervention {3187351064936448}] ()
+[19:40:10.052] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:10.052] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:10.053] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (102 energy {836045448940874}) <102>
+[19:40:10.850] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1368 energy {836045448940874}) <1368>
+[19:40:11.657] [@Xal'ya] [@Xal'ya] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:11.658] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (238 energy {836045448940874}) <238>
+[19:40:11.659] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:11.659] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:12.322] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (407* energy {836045448940874}) <407>
+[19:40:12.911] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (435* energy {836045448940874}) <435>
+[19:40:13.157] [@Xal'ya] [@Xal'ya] [Combat Focus {812113891164160}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:13.157] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Singularity {1417102984478720}] ()
+[19:40:13.157] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Focused {1417102984479039}] ()
+[19:40:13.158] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (6)
+[19:40:13.567] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:40:14.250] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:14.358] [@Xal'ya] [@Xal'ya] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:14.358] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (4)
+[19:40:14.912] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1484 kinetic {836045448940873}) <1484>
+[19:40:15.249] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:16.250] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:16.853] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:16.854] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (4069* kinetic {836045448940873}) <4069>
+[19:40:17.052] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Singularity {1417102984478720}] ()
+[19:40:17.250] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:17.467] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:40:18.252] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:18.464] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:18.464] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:40:18.465] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:19.259] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Focused {1417102984479039}] ()
+[19:40:19.318] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1344* energy {836045448940874}) <1344>
+[19:40:20.062] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:20.062] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:20.063] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (169* energy {836045448940874}) <169>
+[19:40:20.811] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1383 energy {836045448940874}) <1383>
+[19:40:21.662] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:21.662] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:21.662] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (104 energy {836045448940874}) <104>
+[19:40:22.462] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1292 energy {836045448940874}) <1292>
+[19:40:23.473] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:40:24.867] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:24.867] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:24.868] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (90 energy {836045448940874}) <90>
+[19:40:25.579] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2001* energy {836045448940874}) <2001>
+[19:40:26.478] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:26.478] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Unshakable {812139660968471}] ()
+[19:40:26.763] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1755* energy {836045448940874}) <1755>
+[19:40:27.074] [@Xal'ya] [@Xal'ya] [Major Experience Boost {3058699614552064}] [RemoveEffect {836045448945478}: Major Experience Boost {3058699614552064}] ()
+[19:40:27.074] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1053 energy {836045448940874}) <1053>
+[19:40:29.162] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2063 energy {836045448940874}) <2063>
+[19:40:29.469] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [RemoveEffect {836045448945478}: Unshakable {812139660968471}] ()
+[19:40:29.668] [@Xal'ya] [@Xal'ya] [Force Exhaustion {1263338860314624}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:29.669] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:29.669] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [ApplyEffect {836045448945477}: Crushed (Force) {1263338860314909}] ()
+[19:40:29.669] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Singularity {1417102984478720}] ()
+[19:40:29.670] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (371 kinetic {836045448940873}) <371>
+[19:40:30.769] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (371 kinetic {836045448940873}) <371>
+[19:40:31.357] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:31.357] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:40:31.358] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (4)
+[19:40:31.358] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:31.907] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (635* kinetic {836045448940873}) <635>
+[19:40:32.141] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (707 energy {836045448940874}) <707>
+[19:40:32.732] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1114 kinetic {836045448940873}) <1114>
+[19:40:32.732] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [RemoveEffect {836045448945478}: Crushed (Force) {1263338860314909}] ()
+[19:40:32.932] [@Xal'ya] [@Xal'ya] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:32.933] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (218 energy {836045448940874}) <218>
+[19:40:32.935] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:32.935] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:33.547] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (404* energy {836045448940874}) <404>
+[19:40:34.140] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (390* energy {836045448940874}) <390>
+[19:40:34.643] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:34.643] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2349 kinetic {836045448940873}) <2349>
+[19:40:34.839] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Singularity {1417102984478720}] ()
+[19:40:35.254] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:40:36.241] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:36.241] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:36.241] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (163* energy {836045448940874}) <163>
+[19:40:36.956] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1355 energy {836045448940874}) <1355>
+[19:40:38.144] [@Xal'ya] [@Xal'ya] [Zealous Leap {1263330270380032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:38.144] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[19:40:38.144] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [ApplyEffect {836045448945477}: Felling Blow {1263403284824326}] ()
+[19:40:38.144] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [ApplyEffect {836045448945477}: Intervention {3187351064936448}] ()
+[19:40:38.786] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Zealous Leap {1263330270380032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1563 energy {836045448940874}) <1563>
+[19:40:39.841] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:39.841] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:39.841] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (182* energy {836045448940874}) <182>
+[19:40:40.524] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1321 energy {836045448940874}) <1321>
+[19:40:41.259] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:40:42.042] [@Xal'ya] [@Xal'ya] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:42.042] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:40:42.043] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:42.043] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:42.249] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (203 energy {836045448940874}) <203>
+[19:40:42.859] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (240 energy {836045448940874}) <240>
+[19:40:43.719] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:43.720] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:40:43.720] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (4)
+[19:40:43.720] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:44.199] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [RemoveEffect {836045448945478}: Intervention {3187351064936448}] ()
+[19:40:44.568] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (751 energy {836045448940874}) <751>
+[19:40:46.499] [@Xal'ya] [@Xal'ya] [Strike {947362411315200}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:46.500] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (384* energy {836045448940874}) <384>
+[19:40:46.501] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:46.501] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:47.166] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (236 energy {836045448940874}) <236>
+[19:40:47.756] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Strike {947362411315200}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (413* energy {836045448940874}) <413>
+[19:40:48.111] [@Xal'ya] [@Xal'ya] [Force Exhaustion {1263338860314624}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:48.111] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:48.112] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [ApplyEffect {836045448945477}: Crushed (Force) {1263338860314909}] ()
+[19:40:48.113] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Singularity {1417102984478720}] ()
+[19:40:48.113] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (635* kinetic {836045448940873}) <635>
+[19:40:49.210] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (371 kinetic {836045448940873}) <371>
+[19:40:49.808] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:49.808] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:40:49.808] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (90 energy {836045448940874}) <90>
+[19:40:50.113] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (371 kinetic {836045448940873}) <371>
+[19:40:50.539] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -dodge {836045448945505}) <1>
+[19:40:51.131] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1114 kinetic {836045448940873}) <1114>
+[19:40:51.132] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [RemoveEffect {836045448945478}: Crushed (Force) {1263338860314909}] ()
+[19:40:51.824] [@Xal'ya] [@Xal'ya] [Blade Storm {1191698805817344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:51.824] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (4)
+[19:40:52.353] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Blade Storm {1191698805817344}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1544 kinetic {836045448940873}) <1544>
+[19:40:53.760] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:53.761] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3968* kinetic {836045448940873}) <3968>
+[19:40:53.925] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Singularity {1417102984478720}] ()
+[19:40:54.343] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:40:54.343] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [RemoveEffect {836045448945478}: Felling Blow {1263403284824326}] ()
+[19:40:55.732] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:55.732] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:40:55.733] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (4)
+[19:40:55.733] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:40:56.593] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (837 energy {836045448940874}) <837>
+[19:40:57.234] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:40:57.234] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Unshakable {812139660968471}] ()
+[19:40:57.626] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1880* energy {836045448940874}) <1880>
+[19:40:57.919] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1124 energy {836045448940874}) <1124>
+[19:41:00.021] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Master Strike {812139660967936}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2393 energy {836045448940874}) <2393>
+[19:41:00.344] [@Xal'ya] [@Xal'ya] [Master Strike {812139660967936}] [RemoveEffect {836045448945478}: Unshakable {812139660968471}] ()
+[19:41:00.344] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:41:00.431] [@Xal'ya] [@Xal'ya] [Zealous Leap {1263330270380032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:00.431] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[19:41:00.431] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [ApplyEffect {836045448945477}: Felling Blow {1263403284824326}] ()
+[19:41:00.431] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [ApplyEffect {836045448945477}: Intervention {3187351064936448}] ()
+[19:41:01.281] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Zealous Leap {1263330270380032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1543 energy {836045448940874}) <1543>
+[19:41:02.142] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:02.142] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:41:02.143] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (150* energy {836045448940874}) <150>
+[19:41:02.798] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2163* energy {836045448940874}) <2163>
+[19:41:03.550] [@Xal'ya] [@Xal'ya] [Combat Focus {812113891164160}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:03.550] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Singularity {1417102984478720}] ()
+[19:41:03.551] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Focused {1417102984479039}] ()
+[19:41:03.551] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (6)
+[19:41:04.632] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:41:04.754] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:04.754] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3866* kinetic {836045448940873}) <3866>
+[19:41:04.936] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Singularity {1417102984478720}] ()
+[19:41:05.363] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:41:05.363] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [RemoveEffect {836045448945478}: Felling Blow {1263403284824326}] ()
+[19:41:05.634] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:41:06.540] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [RemoveEffect {836045448945478}: Intervention {3187351064936448}] ()
+[19:41:06.540] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:06.540] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:41:06.541] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (102 energy {836045448940874}) <102>
+[19:41:06.631] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:41:07.217] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1341 energy {836045448940874}) <1341>
+[19:41:07.633] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:41:08.140] [@Xal'ya] [@Xal'ya] [Force Exhaustion {1263338860314624}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:08.140] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:41:08.140] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [ApplyEffect {836045448945477}: Crushed (Force) {1263338860314909}] ()
+[19:41:08.141] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (0 -resist {836045448945507}) <1>
+[19:41:08.645] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:41:09.143] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [ApplyEffect {836045448945477}: Singularity {1417102984478720}] ()
+[19:41:09.144] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (402 kinetic {836045448940873}) <402>
+[19:41:09.638] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:41:09.638] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Focused {1417102984479039}] ()
+[19:41:09.742] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:09.742] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:41:09.743] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (100 energy {836045448940874}) <100>
+[19:41:10.141] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (402 kinetic {836045448940873}) <402>
+[19:41:10.420] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1370 energy {836045448940874}) <1370>
+[19:41:11.140] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Crushed (Force) {1263338860314909}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (2063* kinetic {836045448940873}) <2063>
+[19:41:11.141] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Exhaustion {1263338860314624}] [RemoveEffect {836045448945478}: Crushed (Force) {1263338860314909}] ()
+[19:41:11.365] [@Xal'ya] [@Xal'ya] [Zealous Leap {1263330270380032}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:11.365] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (2)
+[19:41:11.365] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [ApplyEffect {836045448945477}: Felling Blow {1263403284824326}] ()
+[19:41:11.366] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [ApplyEffect {836045448945477}: Intervention {3187351064936448}] ()
+[19:41:11.367] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:41:11.998] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Zealous Leap {1263330270380032}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1520 energy {836045448940874}) <1520>
+[19:41:12.859] [@Xal'ya] [@Xal'ya] [Sundering Strike {998060205277184}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:12.860] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (2)
+[19:41:12.860] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (4)
+[19:41:12.860] [@Xal'ya] [@Xal'ya] [] [Restore {836045448945476}: focus point {836045448938496}] (1)
+[19:41:13.705] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1343* energy {836045448940874}) <1343>
+[19:41:14.551] [@Xal'ya] [@Xal'ya] [Force Sweep {812178315673600}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:14.551] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Sweep {812178315673600}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (3973* kinetic {836045448940873}) <3973>
+[19:41:14.739] [@Xal'ya] [@Xal'ya] [Singularity {1417102984478720}] [RemoveEffect {836045448945478}: Singularity {1417102984478720}] ()
+[19:41:15.163] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [ApplyEffect {836045448945477}: Heightened Power {3187673187483648}] ()
+[19:41:15.164] [@Xal'ya] [@Xal'ya] [Felling Blow {1263403284824064}] [RemoveEffect {836045448945478}: Felling Blow {1263403284824326}] ()
+[19:41:16.331] [@Xal'ya] [@Xal'ya] [Slash {947001634062336}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:16.331] [@Xal'ya] [@Xal'ya] [] [Spend {836045448945473}: focus point {836045448938496}] (3)
+[19:41:16.332] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Force Lash {2529971960545280}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (164* energy {836045448940874}) <164>
+[19:41:17.133] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Slash {947001634062336}] [ApplyEffect {836045448945477}: Damage {836045448945501}] (1267 energy {836045448940874}) <1267>
+[19:41:17.432] [@Xal'ya] [@Xal'ya] [Intervention {3187351064936448}] [RemoveEffect {836045448945478}: Intervention {3187351064936448}] ()
+[19:41:21.239] [@Xal'ya] [@Xal'ya] [Heightened Power {3187673187483648}] [RemoveEffect {836045448945478}: Heightened Power {3187673187483648}] ()
+[19:41:22.438] [@Xal'ya] [@Xal'ya] [] [Event {836045448945472}: ExitCombat {836045448945490}] ()
+[19:41:22.443] [@Xal'ya] [@Xal'ya] [Sprint {810670782152704}] [ApplyEffect {836045448945477}: Sprint {810670782152704}] ()
+[19:41:22.443] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Sundering Strike {998060205277184}] [RemoveEffect {836045448945478}: Armor Reduced {998060205277460}] ()
+[19:41:22.444] [@Xal'ya] [Operations Training Dummy {2857785339412480}:141011298306] [Dust Storm {1282013378117632}] [RemoveEffect {836045448945478}: Accuracy Reduced (Force) {1282013378117888}] ()
+[19:41:22.544] [@Xal'ya] [@Xal'ya] [Introspection {812131071033344}] [Event {836045448945472}: AbilityActivate {836045448945479}] ()
+[19:41:22.544] [@Xal'ya] [@Xal'ya] [Introspection {812131071033344}] [ApplyEffect {836045448945477}: Introspection {812131071033344}] ()
+[19:41:24.235] [@Xal'ya] [@Xal'ya] [Introspection {812131071033344}] [RemoveEffect {836045448945478}: Introspection {812131071033344}] ()
+[19:41:24.235] [@Xal'ya] [@Xal'ya] [Introspection {812131071033344}] [Event {836045448945472}: AbilityCancel {836045448945481}] ()
