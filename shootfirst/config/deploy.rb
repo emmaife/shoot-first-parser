@@ -1,3 +1,5 @@
+require 'bundler/capistrano' 
+
 set :application, "ShootFirst"
 set :repository,  "git@github.com:emmaife/shoot-first-parser.git"
 
