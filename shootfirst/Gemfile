@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.3'
+gem 'rails', '4.1.0'
 gem 'carrierwave'
-gem 'tabulous'
 gem 'paperclip'
 gem 'chartkick'
 gem "highcharts-rails", "~> 3.0.10"
@@ -23,12 +22,35 @@ gem 'coffee-rails', '~> 4.0.0'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
-
+gem 'flatiron-rails'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
+
+group :test, :development do
+  gem "rspec-rails"
+  gem "capybara"
+  gem "selenium-webdriver"
+  gem "better_errors"
+  gem "sprockets_better_errors"
+  gem "binding_of_caller"
+  gem "factory_girl_rails"
+  gem "simplecov"
+  gem "database_cleaner"
+  gem "sqlite3"
+  gem "pry"
+end
+
+group :production do
+  gem "pg"
+  gem "google-analytics-rails"
+  gem "rails_12factor"
+end
+
+gem "bootstrap-sass", "~> 3.1.1"
+
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'

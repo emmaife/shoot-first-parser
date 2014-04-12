@@ -1,5 +1,7 @@
 require 'bundler/capistrano' 
-
+load 'deploy'
+load 'deploy/assets'
+load 'config/deploy'
 set :bundle_gemfile, "shootfirst/Gemfile"
 
 set :application, "ShootFirst"

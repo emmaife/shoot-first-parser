@@ -11,7 +11,6 @@
 
   <%= csrf_meta_tags %>
 </head>
-<body>
 
 <div id="user_nav">
   <% if user_signed_in? %>
@@ -25,11 +24,17 @@
   <% end %>
 </div>
 
-<% if alert %>
+
+
+  <% if alert %>
   <p class="alert alert-error"><%= alert %></p>
 <% end %>
 
 <%= yield %>
+<body>
+
+
+
 
 </body>
 </html>
